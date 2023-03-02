@@ -1,0 +1,42 @@
+---------------Cabin Details----------------
+Logs updated Date/Time : Wed Apr 20 14:53:00 IST 2022
+
+----task3Cabin No.0 - not yet booked----
+
+----task3Cabin No.1 - not yet booked----
+
+----task3Cabin No.2 - not yet booked----
+
+----task3Cabin No.3 - not yet booked----
+
+----task3Cabin No.4 - not yet booked----
+
+----task3Cabin No.5 - SUNIMAL's task3Cabin----
+task3Passenger 1 details
+First name : SITHUM
+Surname    : WICK
+Expenses   : 4000.0
+
+task3Passenger 2 details
+First name : SAMINI
+Surname    : DEV
+Expenses   : 7800.0
+
+task3Passenger 3 details
+First name : KARINA
+Surname    : WICK
+Expenses   : 780000.0
+
+
+----task3Cabin No.6 - not yet booked----
+
+----task3Cabin No.7 - not yet booked----
+
+----task3Cabin No.8 - not yet booked----
+
+----task3Cabin No.9 - not yet booked----
+
+----task3Cabin No.10 - not yet booked----
+
+----task3Cabin No.11 - not yet booked----
+---------------------------------------------------------------------------
